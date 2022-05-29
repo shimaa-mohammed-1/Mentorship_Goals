@@ -8,8 +8,8 @@ Mentorship Goals Needed To Finish
 - [x] CSS Grid
 - [ ] Transform
 - [ ] Animation
-- [ ] Media Queries
-- [ ] Grid System
+- [x] Media Queries
+- [x] Grid System
 - [ ] Create Your Framework || UI Kit
 
 ## JavaScript

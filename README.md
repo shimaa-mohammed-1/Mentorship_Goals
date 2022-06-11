@@ -14,11 +14,11 @@ Mentorship Goals Needed To Finish
 
 ## JavaScript
 
-- [ x] DOM
-- [ x] Higher Order Functions
+- [x] DOM
+- [x] Higher Order Functions
 - [ ] Destructuring
 - [ ] Scope
-- [ x] Local Storage
+- [x] Local Storage
 - [ ] Object Oriented Programming
 - [ ] Prototype
 - [ ] JSON

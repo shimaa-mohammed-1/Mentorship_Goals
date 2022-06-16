@@ -16,7 +16,7 @@ Mentorship Goals Needed To Finish
 
 - [x] DOM
 - [x] Higher Order Functions
-- [ ] Destructuring
+- [x] Destructuring
 - [x] Scope
 - [x] Local Storage
 - [ ] Object Oriented Programming

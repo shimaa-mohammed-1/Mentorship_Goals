@@ -36,7 +36,7 @@ Mentorship Goals Needed To Finish
 
 ### Codewars 300 Very Easy And Easy Problems
 
-- [ ] 50
+- [x] 50
 - [ ] 50
 - [ ] 50
 - [ ] 50

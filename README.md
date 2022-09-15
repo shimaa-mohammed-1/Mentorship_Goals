@@ -22,7 +22,7 @@ Mentorship Goals Needed To Finish
 - [x] Object Oriented Programming
 - [x] Prototype
 - [x] JSON
-- [ ] AJAX
+- [x] AJAX
 - [ ] Promises
 
 ## Tools 

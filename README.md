@@ -23,7 +23,7 @@ Mentorship Goals Needed To Finish
 - [x] Prototype
 - [x] JSON
 - [x] AJAX
-- [ ] Promises
+- [x] Promises
 
 ## Tools 
 
